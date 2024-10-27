@@ -1,0 +1,9 @@
+Name: Shashank Singh
+Student no.: 23154013
+Domain: UI/UX
+Grroup-7
+Task: To create a fruit cutting game.
+
+I have created the UI for the game on 24-10-24 today on 27-10-24 I have made some updates and new added components in my design to make more better.
+
+link to my game design: https://drive.google.com/file/d/1uk2QGgOpnr7AO1RrJ4aMY6NUEHcqh0to/view?usp=sharing	
